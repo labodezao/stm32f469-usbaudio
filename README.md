@@ -1,6 +1,6 @@
 # STM32F4 Asynchronous USB Audio Firmware
 
-![Actions Status](https://github.com/dragonman225/stm32f469-usbaudio/workflows/ARM%20Cross-compilation%20CI/badge.svg)
+Contrôles : `controles_locaux.py` en local (GitHub Actions coupé le 12/11/2026).
 
 This project is based on [STM32469I-Discovery "AUDIO_Standalone" Example](https://github.com/STMicroelectronics/STM32CubeF4/tree/master/Projects/STM32469I-Discovery/Applications/USB_Device/AUDIO_Standalone), and I largely rewrite the [USB audio class library](https://github.com/dragonman225/stm32f469-usbaudio/tree/master/Middlewares/ST/STM32_USB_Device_Library/Class/AUDIO) provided by ST.
 
