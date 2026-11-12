@@ -1,3 +1,4 @@
+# Inactif : GitHub Actions coupé le 12/11/2026 ; équivalent local : controles_locaux.py
 name: ARM Cross-compilation CI
 
 on:
